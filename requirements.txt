@@ -1,6 +1,6 @@
 aiofiles==23.2.1
 beautifulsoup4==4.12.2
-black==23.9.1
+black==24.3.0
 celery==5.3.4
 celery-singleton==0.3.1
 channels==4.0.0
@@ -8,14 +8,14 @@ channels_redis==4.1.0
 chromadb==0.4.13
 colorlog==6.7.0
 daphne==4.0.0
-django==4.2.7
+django==4.2.11
 django-channels-graphql-ws==1.0.0rc6
 django_extensions==3.2.3
 django-redis==5.3.0
 Faker==19.6.2
 fireworks-ai==0.11.2
 flake8==6.1.0
-fastapi==0.103.2
+fastapi==0.109.1
 graphene-django==3.1.5
 google-api-python-client==2.100.0
 googlesearch-python==1.2.3
@@ -47,9 +47,9 @@ pytest-django==4.5.2
 pytest-mock==3.11.1
 pytest-snapshot==0.9.0
 pytest-xdist==2.4.0
-python-multipart==0.0.6
+python-multipart==0.0.7
 redis==5.0.0
-requests==2.31.0
+requests==2.32.0
 tiktoken==0.5.1
 wikipedia==1.4.0
 wolframalpha==5.0.0
